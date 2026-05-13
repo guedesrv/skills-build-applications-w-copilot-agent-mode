@@ -1,0 +1,36 @@
+/* App.css */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f3f6ff;
+}
+
+.navbar-brand {
+  font-weight: 700;
+}
+
+.table {
+  margin-top: 20px;
+}
+
+.card {
+  margin-bottom: 24px;
+}
+
+.btn {
+  margin: 4px 4px 0 0;
+}
+
+.modal-backdrop.show {
+  opacity: 0.5;
+}
+
+pre {
+  background-color: #f8f9fa;
+  padding: 16px;
+  border-radius: 0.375rem;
+  overflow-x: auto;
+}
+
+.card-body .form-control {
+  max-width: 420px;
+}
